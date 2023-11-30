@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ganesh-mali
 - 👀 I’m interested in Machine Learning , software development , Computer Vision and Embedded Development applications
 - 🌱 I’m currently learning Engineering Managment , ML , CV  , Operation managemnt etc
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 💞️ I’m looking to collaborate on Embedded Software Development Projects.
 - 📫 How to reach me  ganesh26.mali@gmail.com 
 
 <!---
